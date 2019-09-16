@@ -7,7 +7,7 @@ In the last lesson, we derived the functions that help us descend down cost func
 
 ![](./tangent-lines.png)
 
-When descending down our cost curve in two dimensions, we used the slope of the tangent line at each point to tell us how large of a step to take next. Since the cost curve is a function of $m$ and $b$, we had to use the gradient to determine each step.  
+When descending down our cost curve in two dimensions, we used the slope of the tangent line at each point to tell us how large of a step to take next. Since the cost curve is a function of $m$ and $b$, we used the gradient to determine each step.  
 
 ![](./gradientdescent.png)
 
